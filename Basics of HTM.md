@@ -1,0 +1,2 @@
+**HTML**, 
+which stands for HyperText Markup Language , is the foundational language for creating web pages. It's not a programming language (like JavaScript or Python); instead, it's a markup language . This means it uses a system of tags to define the structure and content of a web page. Think of HTML as the skeleton or blueprint of a webpage. It tells the browser what content to display (text, images, videos, links, etc.) and how that content is organized (headings, paragraphs, lists, tables). Without HTML, there would be no web pages as we know them.
